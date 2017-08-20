@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftWebviewer/ViewController.swift"
+            timestampString = "524893127.876559"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftWebviewer.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SwiftWebviewer.ViewController"
+                  moduleName = "SwiftWebviewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacobsteves/Documents/GitHub/Swift-Webviewer/SwiftWebviewer/SwiftWebviewer/ViewController.swift"
+                  timestampString = "524893324.278271"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftWebviewer.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SwiftWebviewer.ViewController"
+                  moduleName = "SwiftWebviewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacobsteves/Documents/GitHub/Swift-Webviewer/SwiftWebviewer/SwiftWebviewer/ViewController.swift"
+                  timestampString = "524893324.282976"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftWebviewer.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SwiftWebviewer.ViewController&gt;"
+                  moduleName = "SwiftWebviewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacobsteves/Documents/GitHub/Swift-Webviewer/SwiftWebviewer/SwiftWebviewer/ViewController.swift"
+                  timestampString = "524893324.28666"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftWebviewer.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SwiftWebviewer.ViewController&gt;"
+                  moduleName = "SwiftWebviewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacobsteves/Documents/GitHub/Swift-Webviewer/SwiftWebviewer/SwiftWebviewer/ViewController.swift"
+                  timestampString = "524893324.28967"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
