@@ -14,6 +14,7 @@ The iOS app store will reject any application that is simply a website. So if yo
 ## Installation
 - clone this repo
 - open the `SwiftWebviewer` folder within Xcode
+- edit the Bundle Identifier `SwiftWebviewer/SwiftWebviewer/Info.plist` to your own and generate a new signing profile / add your own
 - edit the `SwiftWebviewer/SwiftWebviewer/ViewController.swift` to use the site you want
 - edit the `SwiftWebviewer/SwiftWebviewer/Info.plist` to arbitrarily load your domain
      - <img src="demoImages/info-plist.png" height="400" />
